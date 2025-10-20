@@ -41,3 +41,7 @@ The app will display GPU detection, load the T5 tokenizer and TF seq2seq model (
 - Add caching for model generation to speed up repeated questions.
 - Add batching and rate-limiting for production deployments.
 - Provide a Dockerfile for reproducible environments.
+
+## Hugging Face Spaces Link
+https://huggingface.co/spaces/IanG7/Agribot_Chat/tree/main
+
